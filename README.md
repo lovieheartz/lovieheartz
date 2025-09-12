@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3CE3FF&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Md+Rehan+Farooque;Generative+AI+%7C+Quant+Developer+%7C+AI%2FML+Engineer;Full-Stack+(MERN+%7C+Django)+Developer;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 🧑‍💻 About Me  

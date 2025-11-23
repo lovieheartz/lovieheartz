@@ -3,11 +3,12 @@
 <!-- Animated Header with Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=200&section=header&text=Md%20Rehan%20Farooque&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Quant%20Developer%20|%20Full-Stack%20Architect&descSize=18&descAlignY=55"/>
 
-<!-- Typing Animation -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🤖+Generative+AI+%26+LLM+Specialist;💹+Quantitative+Finance+Developer;🌐+Full-Stack+Engineer+(MERN+%7C+Django);☁️+Cloud+%26+DevOps+Expert" alt="Typing SVG" />
 
-<br/>
+<!-- Typing Animation with Better Visibility -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=🤖+Generative+AI+%26+LLM+Specialist;💹+Quantitative+Finance+Developer;🌐+Full-Stack+Engineer+(MERN+%7C+Django);☁️+Cloud+%26+DevOps+Expert" alt="Typing SVG" /></a>
+
+<br/><br/>
 
 <!-- Social Badges with Better Styling -->
 <p>
@@ -29,7 +30,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lovieheartz&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=lovieheartz&label=Profile+Views&color=70A5FD&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -56,7 +57,6 @@
 ✅ **GATE 2025 Qualified** (Top 15%)
 ✅ **Best Performer** @ Elevate Labs
 ✅ **Multiple Chess Titles**
-✅ **Hackathon Winner**
 
 </td>
 <td align="center" width="50%">
@@ -257,30 +257,56 @@
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Md Rehan<br/>Farooque))
-    Generative AI
-      LLMs Fine-tuning
-      RAG Systems
-      Vector Databases
-      Prompt Engineering
-    Agentic AI
-      n8n Workflows
-      LangGraph
-      CrewAI
-      AutoGen
-    Quant Finance
-      Algo Trading
-      Market Analysis
-      Risk Management
-      Optimization
-    Full Stack
-      MERN Stack
-      Django FastAPI
-      Microservices
-      Cloud Native
-```
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### **Building the Future with AI & Code**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🤖 Generative AI**
+
+LLMs & Fine-tuning
+RAG Systems
+Vector Databases
+Prompt Engineering
+
+</td>
+<td align="center" width="25%">
+
+**🔧 Agentic AI**
+
+n8n Workflows
+LangGraph
+CrewAI
+AutoGen
+
+</td>
+<td align="center" width="25%">
+
+**💹 Quant Finance**
+
+Algo Trading
+Market Analysis
+Risk Management
+Optimization
+
+</td>
+<td align="center" width="25%">
+
+**🌐 Full Stack**
+
+MERN Stack
+Django/FastAPI
+Microservices
+Cloud Native
+
+</td>
+</tr>
+</table>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
@@ -308,23 +334,6 @@ mindmap
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=lovieheartz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/lovieheartz/Full-Stack-Agentic-VoicePlatform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lovieheartz&repo=Full-Stack-Agentic-VoicePlatform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" width="45%" />
-</a>
-
-<br/><br/>
-
-**🚀 Full-Stack Agentic Voice Platform**
-*AI-powered voice platform with CRM integrations & intelligent conversations*
 
 </div>
 
